@@ -1,0 +1,10 @@
+name: shiny_app
+title:
+username: clustering-expediadata
+account: clustering-expediadata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13545226
+bundleId: 9477666
+url: https://clustering-expediadata.shinyapps.io/shiny_app/
+version: 1
